@@ -1,0 +1,567 @@
+
+ [
+      {
+        "name": "Slave 1",
+        "model": "Firespray-31-class patrol and attack",
+        "cost_in_credits": "unknown",
+        "crew": "1",
+        "cargo_capacity": "70000",
+        "consumables": "1 month",
+        "hyperdrive_rating": "3.0",
+        "starship_class": "Patrol craft",
+        "pilots": [
+          "http://swapi.dev/api/people/22/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/5/"
+        ]
+      },
+      {
+        "name": "Imperial shuttle",
+        "model": "Lambda-class T-4a shuttle",
+        "cost_in_credits": "240000",
+        "crew": "6",
+        "cargo_capacity": "80000",
+        "consumables": "2 months",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "Armed government transport",
+        "pilots": [
+          "http://swapi.dev/api/people/1/",
+          "http://swapi.dev/api/people/13/",
+          "http://swapi.dev/api/people/14/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/3/"
+        ]
+      },
+      {
+        "name": "EF76 Nebulon-B escort frigate",
+        "model": "EF76 Nebulon-B escort frigate",
+        "cost_in_credits": "8500000",
+        "crew": "854",
+        "cargo_capacity": "6000000",
+        "consumables": "2 years",
+        "hyperdrive_rating": "2.0",
+        "starship_class": "Escort ship",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/3/"
+        ]
+      },
+      {
+        "name": "Calamari Cruiser",
+        "model": "MC80 Liberty type Star Cruiser",
+        "cost_in_credits": "104000000",
+        "crew": "5400",
+        "cargo_capacity": "unknown",
+        "consumables": "2 years",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "Star Cruiser",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/3/"
+        ]
+      },
+      {
+        "name": "A-wing",
+        "model": "RZ-1 A-wing Interceptor",
+        "cost_in_credits": "175000",
+        "crew": "1",
+        "cargo_capacity": "40",
+        "consumables": "1 week",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "Starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/29/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/3/"
+        ]
+      },
+      {
+        "name": "B-wing",
+        "model": "A/SF-01 B-wing starfighter",
+        "cost_in_credits": "220000",
+        "crew": "1",
+        "cargo_capacity": "45",
+        "consumables": "1 week",
+        "hyperdrive_rating": "2.0",
+        "starship_class": "Assault Starfighter",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/3/"
+        ]
+      },
+      {
+        "name": "Republic Cruiser",
+        "model": "Consular-class cruiser",
+        "cost_in_credits": "unknown",
+        "crew": "9",
+        "cargo_capacity": "unknown",
+        "consumables": "unknown",
+        "hyperdrive_rating": "2.0",
+        "starship_class": "Space cruiser",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/4/"
+        ]
+      },
+      {
+        "name": "Droid control ship",
+        "model": "Lucrehulk-class Droid Control Ship",
+        "cost_in_credits": "unknown",
+        "crew": "175",
+        "cargo_capacity": "4000000000",
+        "consumables": "500 days",
+        "hyperdrive_rating": "2.0",
+        "starship_class": "Droid control ship",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/4/",
+          "http://swapi.dev/api/films/5/",
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "Naboo fighter",
+        "model": "N-1 starfighter",
+        "cost_in_credits": "200000",
+        "crew": "1",
+        "cargo_capacity": "65",
+        "consumables": "7 days",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "Starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/11/",
+          "http://swapi.dev/api/people/35/",
+          "http://swapi.dev/api/people/60/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/4/",
+          "http://swapi.dev/api/films/5/"
+        ]
+      },
+      {
+        "name": "Naboo Royal Starship",
+        "model": "J-type 327 Nubian royal starship",
+        "cost_in_credits": "unknown",
+        "crew": "8",
+        "cargo_capacity": "unknown",
+        "consumables": "unknown",
+        "hyperdrive_rating": "1.8",
+        "starship_class": "yacht",
+        "pilots": [
+          "http://swapi.dev/api/people/39/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/4/"
+        ]
+      },
+      {
+        "name": "Slave 1",
+        "model": "Firespray-31-class patrol and attack",
+        "cost_in_credits": "unknown",
+        "crew": "1",
+        "cargo_capacity": "70000",
+        "consumables": "1 month",
+        "hyperdrive_rating": "3.0",
+        "starship_class": "Patrol craft",
+        "pilots": [
+          "http://swapi.dev/api/people/22/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/5/"
+        ]
+      },
+      {
+        "name": "Imperial shuttle",
+        "model": "Lambda-class T-4a shuttle",
+        "cost_in_credits": "240000",
+        "crew": "6",
+        "cargo_capacity": "80000",
+        "consumables": "2 months",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "Armed government transport",
+        "pilots": [
+          "http://swapi.dev/api/people/1/",
+          "http://swapi.dev/api/people/13/",
+          "http://swapi.dev/api/people/14/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/3/"
+        ]
+      },
+      {
+        "name": "EF76 Nebulon-B escort frigate",
+        "model": "EF76 Nebulon-B escort frigate",
+        "cost_in_credits": "8500000",
+        "crew": "854",
+        "cargo_capacity": "6000000",
+        "consumables": "2 years",
+        "hyperdrive_rating": "2.0",
+        "starship_class": "Escort ship",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/2/",
+          "http://swapi.dev/api/films/3/"
+        ]
+      },
+      {
+        "name": "Calamari Cruiser",
+        "model": "MC80 Liberty type Star Cruiser",
+        "cost_in_credits": "104000000",
+        "crew": "5400",
+        "cargo_capacity": "unknown",
+        "consumables": "2 years",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "Star Cruiser",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/3/"
+        ]
+      },
+      {
+        "name": "A-wing",
+        "model": "RZ-1 A-wing Interceptor",
+        "cost_in_credits": "175000",
+        "crew": "1",
+        "cargo_capacity": "40",
+        "consumables": "1 week",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "Starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/29/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/3/"
+        ]
+      },
+      {
+        "name": "B-wing",
+        "model": "A/SF-01 B-wing starfighter",
+        "cost_in_credits": "220000",
+        "crew": "1",
+        "cargo_capacity": "45",
+        "consumables": "1 week",
+        "hyperdrive_rating": "2.0",
+        "starship_class": "Assault Starfighter",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/3/"
+        ]
+      },
+      {
+        "name": "Republic Cruiser",
+        "model": "Consular-class cruiser",
+        "cost_in_credits": "unknown",
+        "crew": "9",
+        "cargo_capacity": "unknown",
+        "consumables": "unknown",
+        "hyperdrive_rating": "2.0",
+        "starship_class": "Space cruiser",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/4/"
+        ]
+      },
+      {
+        "name": "Droid control ship",
+        "model": "Lucrehulk-class Droid Control Ship",
+        "cost_in_credits": "unknown",
+        "crew": "175",
+        "cargo_capacity": "4000000000",
+        "consumables": "500 days",
+        "hyperdrive_rating": "2.0",
+        "starship_class": "Droid control ship",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/4/",
+          "http://swapi.dev/api/films/5/",
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "Naboo fighter",
+        "model": "N-1 starfighter",
+        "cost_in_credits": "200000",
+        "crew": "1",
+        "cargo_capacity": "65",
+        "consumables": "7 days",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "Starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/11/",
+          "http://swapi.dev/api/people/35/",
+          "http://swapi.dev/api/people/60/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/4/",
+          "http://swapi.dev/api/films/5/"
+        ]
+      },
+      {
+        "name": "Naboo Royal Starship",
+        "model": "J-type 327 Nubian royal starship",
+        "cost_in_credits": "unknown",
+        "crew": "8",
+        "cargo_capacity": "unknown",
+        "consumables": "unknown",
+        "hyperdrive_rating": "1.8",
+        "starship_class": "yacht",
+        "pilots": [
+          "http://swapi.dev/api/people/39/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/4/"
+        ]
+      },
+      {
+        "name": "Scimitar",
+        "model": "Star Courier",
+        "cost_in_credits": "55000000",
+        "crew": "1",
+        "cargo_capacity": "2500000",
+        "consumables": "30 days",
+        "hyperdrive_rating": "1.5",
+        "starship_class": "Space Transport",
+        "pilots": [
+          "http://swapi.dev/api/people/44/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/4/"
+        ]
+      },
+      {
+        "name": "J-type diplomatic barge",
+        "model": "J-type diplomatic barge",
+        "cost_in_credits": "2000000",
+        "crew": "5",
+        "cargo_capacity": "unknown",
+        "consumables": "1 year",
+        "hyperdrive_rating": "0.7",
+        "starship_class": "Diplomatic barge",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/5/"
+        ]
+      },
+      {
+        "name": "AA-9 Coruscant freighter",
+        "model": "Botajef AA-9 Freighter-Liner",
+        "cost_in_credits": "unknown",
+        "crew": "unknown",
+        "cargo_capacity": "unknown",
+        "consumables": "unknown",
+        "hyperdrive_rating": "unknown",
+        "starship_class": "freighter",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/5/"
+        ]
+      },
+      {
+        "name": "Jedi starfighter",
+        "model": "Delta-7 Aethersprite-class interceptor",
+        "cost_in_credits": "180000",
+        "crew": "1",
+        "cargo_capacity": "60",
+        "consumables": "7 days",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "Starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/58/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/5/",
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "H-type Nubian yacht",
+        "model": "H-type Nubian yacht",
+        "cost_in_credits": "unknown",
+        "crew": "4",
+        "cargo_capacity": "unknown",
+        "consumables": "unknown",
+        "hyperdrive_rating": "0.9",
+        "starship_class": "yacht",
+        "pilots": [
+          "http://swapi.dev/api/people/35/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/5/"
+        ]
+      },
+      {
+        "name": "Republic Assault ship",
+        "model": "Acclamator I-class assault ship",
+        "cost_in_credits": "unknown",
+        "crew": "700",
+        "cargo_capacity": "11250000",
+        "consumables": "2 years",
+        "hyperdrive_rating": "0.6",
+        "starship_class": "assault ship",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/5/"
+        ]
+      },
+      {
+        "name": "Solar Sailer",
+        "model": "Punworcca 116-class interstellar sloop",
+        "cost_in_credits": "35700",
+        "crew": "3",
+        "cargo_capacity": "240",
+        "consumables": "7 days",
+        "hyperdrive_rating": "1.5",
+        "starship_class": "yacht",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/5/"
+        ]
+      },
+      {
+        "name": "Trade Federation cruiser",
+        "model": "Providence-class carrier/destroyer",
+        "cost_in_credits": "125000000",
+        "crew": "600",
+        "cargo_capacity": "50000000",
+        "consumables": "4 years",
+        "hyperdrive_rating": "1.5",
+        "starship_class": "capital ship",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/11/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "Theta-class T-2c shuttle",
+        "model": "Theta-class T-2c shuttle",
+        "cost_in_credits": "1000000",
+        "crew": "5",
+        "cargo_capacity": "50000",
+        "consumables": "56 days",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "transport",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "Republic attack cruiser",
+        "model": "Senator-class Star Destroyer",
+        "cost_in_credits": "59000000",
+        "crew": "7400",
+        "cargo_capacity": "20000000",
+        "consumables": "2 years",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "star destroyer",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "Naboo star skiff",
+        "model": "J-type star skiff",
+        "cost_in_credits": "unknown",
+        "crew": "3",
+        "cargo_capacity": "unknown",
+        "consumables": "unknown",
+        "hyperdrive_rating": "0.5",
+        "starship_class": "yacht",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/35/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "Jedi Interceptor",
+        "model": "Eta-2 Actis-class light interceptor",
+        "cost_in_credits": "320000",
+        "crew": "1",
+        "cargo_capacity": "60",
+        "consumables": "2 days",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/11/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "arc-170",
+        "model": "Aggressive Reconnaissance-170 starfighte",
+        "cost_in_credits": "155000",
+        "crew": "3",
+        "cargo_capacity": "110",
+        "consumables": "5 days",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "starfighter",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "Banking clan frigte",
+        "model": "Munificent-class star frigate",
+        "cost_in_credits": "57000000",
+        "crew": "200",
+        "cargo_capacity": "40000000",
+        "consumables": "2 years",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "cruiser",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "Belbullab-22 starfighter",
+        "model": "Belbullab-22 starfighter",
+        "cost_in_credits": "168000",
+        "crew": "1",
+        "cargo_capacity": "140",
+        "consumables": "7 days",
+        "hyperdrive_rating": "6",
+        "starship_class": "starfighter",
+        "pilots": [
+          "http://swapi.dev/api/people/10/",
+          "http://swapi.dev/api/people/79/"
+        ],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+        ]
+      },
+      {
+        "name": "V-wing",
+        "model": "Alpha-3 Nimbus-class V-wing starfighter",
+        "cost_in_credits": "102500",
+        "crew": "1",
+        "cargo_capacity": "60",
+        "consumables": "15 hours",
+        "hyperdrive_rating": "1.0",
+        "starship_class": "starfighter",
+        "pilots": [],
+        "films": [
+          "http://swapi.dev/api/films/6/"
+          ]
+      }
+    ]
